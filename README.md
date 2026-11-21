@@ -13,7 +13,7 @@
 | 技术 | Kotlin + WebView 外壳，React 产物放在 `assets/` |
 | 大小 | 约 5.1 MB |
 | 权限 | INTERNET、WAKE_LOCK |
-| 原生桥 | `window.__NATIVE__`（enabled / proxyPort / saveFile / downloadVideo / shareText） |
+| 原生桥 | `window.__NATIVE__`（enabled / proxyPort / saveFile / downloadVideo） |
 
 ## 功能
 

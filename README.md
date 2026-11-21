@@ -8,7 +8,7 @@
 | --- | --- |
 | 应用名 | 大肥鱼 |
 | 包名 | `dfy.DeepSeek` |
-| 版本 | 0.1.1 |
+| 版本 | 1.1（versionCode 2） |
 | 主 Activity | `com.deepseek.chat.MainActivity` |
 | 技术 | Kotlin + WebView 外壳，React 产物放在 `assets/` |
 | 大小 | 约 5.1 MB |
